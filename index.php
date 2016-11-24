@@ -18,8 +18,9 @@
 	<body>
 		<div class="upcolor">
 			<div id="name">
-				<div style="padding-top: 15px; padding-left: 150px; font-size: 40px; color: white; text-align: center;">
-					<b>SZKOŁA JEZUITÓW</b>
+				<div style="width: 150px; padding-top: 15px; padding-left: 200px; font-size: 50px; color: white; text-align: center;">
+					<b>SZKOŁA JEZUITÓW<br>
+					       GDYNIA 	</b>
 				</div>
 			</div> 
 			<img id="logoPosition" src="assets/logo.png" />
@@ -34,8 +35,8 @@
 			
 	
 			<div id="box2" class="box">
-				<div style="margin-top: 50px;">Liceum<br>
-				Ogólnokształcące</div>
+				<div style="margin-top: 50px;">Gimnazjum i<br>
+				Liceum</div>
 			</div>
 		</div>
 
