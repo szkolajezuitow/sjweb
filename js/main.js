@@ -9,7 +9,7 @@ $("#box1").click(function(){
 $("#box1").hover(function(){
 	
 	$(this).transition({
-		scale: 0.75
+		scale: 0.9
 	})},
 	
 	function(){
@@ -25,7 +25,7 @@ $("#box1").hover(function(){
 $("#box2").hover(function(){
 	
 	$(this).transition({
-		scale: 0.75
+		scale: 0.9
 	})},
 	
 	function(){
